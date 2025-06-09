@@ -1,0 +1,26 @@
+body {
+    background-color: #8B0000; /* Dark red background color */
+    font-family: Arial, sans-serif; /* A clear and widely available font */
+    font-size: 1.2em; /* Makes the base font size 20% larger than default */
+    line-height: 1.6; /* Improves readability by increasing space between lines */
+    color: #FFFFFF; /* White text color for contrast */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif; /* A more refined font for headings */
+    color: #FFD700; /* A golden color for headings to stand out */
+    text-rendering: optimizeLegibility; /* Enhances font rendering for better clarity */
+}
+
+p {
+    margin-bottom: 1em; /* Adds space between paragraphs for better readability */
+}
+
+a {
+    color: #ADD8E6; /* Light blue for links, making them noticeable */
+    text-decoration: none; /* Removes the default underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Adds an underline on hover for better user experience */
+}
